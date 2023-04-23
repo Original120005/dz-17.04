@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Миллионер_homework_14._04._2023
+namespace dz14_04
 {
     public partial class Form1 : Form
     {
