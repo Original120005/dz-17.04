@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Миллионер_homework_14._04._2023
+namespace dz14_04
 {
     internal static class Program
     {
